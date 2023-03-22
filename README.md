@@ -13,13 +13,6 @@
 
 ## Project to solidify material learned: 
 
-### Preview:
-![password3](./found_password.png)
-### Inform the user that the website they looked up is not saved.
-![password4](./not_found.png)
-
-
-
 
 ### _ISS_overhead_notifier
 
